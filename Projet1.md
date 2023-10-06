@@ -1,0 +1,348 @@
+# Projet 1 | 06/10/2023
+
+## Teams
+
+### WildersBook
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Baris</li>
+                <li>Océane</li>
+                <li>Clément</li>
+                <li>Francois</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/BarisRz/projet1">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildersbook.vercel.app/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Wild tour
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Stéphanie</li>
+                <li>Daniel</li>
+                <li>Yacine</li>
+                <li>Julien</li>
+                <li>Stéphanie</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Yazzz28/project1">Le repo ici</a>
+        </td>
+        <td>
+            <a href="#">❌</a>
+        </td>
+    </tr>
+</table>
+
+### J.Space
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Lucinda</li>
+                <li>Julien</li>
+                <li>Vincent</li>
+                <li>Serigne</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-P1-CrewStillant-JSpace">Le repo ici</a>
+        </td>
+        <td>
+            <a href="#">❌</a>
+        </td>
+    </tr>
+</table>
+
+### BadTripAdvisor
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Morgane</li>
+                <li>Doriane</li>
+                <li>Tristan</li>
+                <li>Pierre</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Enagrom5/Projet1">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://enagrom5.github.io/Projet1/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Les BG du PHP
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Pierre</li>
+                <li>Hugo</li>
+                <li>Jessica</li>
+                <li>Adrien</li>
+                <li>Laura</li>
+                <li>Antonin</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/PALVAREZ67/Le-palais-du-kebab">Le repo ici</a>
+        </td>
+        <td>
+            <a href="#">❌</a>
+        </td>
+    </tr>
+</table>
+
+### Maestro Task
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Tugba</li>
+                <li>Quentin</li>
+                <li>Jean-françois</li>
+                <li>Sébastien</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-P1-CrewStillant-MaestroTask">Le repo ici</a>
+        </td>
+        <td>
+            <a href="#">❌</a>
+        </td>
+    </tr>
+</table>
+
+### Trombinoscope SACOD
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Jérémy</li>
+                <li>Diogo</li>
+                <li>Ghislain</li>
+                <li>Jordan</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Merafath/Projet1">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://merafath.github.io/Projet1/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Coffee time
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Baptiste</li>
+                <li>William</li>
+                <li>Elise</li>
+                <li>Maxime</li>
+                <li>Kyliann</li>
+                <li>Dorian</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Kynuak/Bobo-Coffee">Le repo ici</a>
+        </td>
+        <td>
+            <a href="#">❌</a>
+        </td>
+    </tr>
+</table>
+
+### TamagoTeam
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Faïza</li>
+                <li>Thierry</li>
+                <li>Gael</li>
+                <li>Pierre</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/PierreA44/TamagotiTeam">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://pierrea44.github.io/TamagotiTeam/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### City Quiz
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Flavien</li>
+                <li>Hugo</li>
+                <li>Elie</li>
+                <li>Raphael</li>
+                <li>Christophe</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Rapha2202/Projet-1-City-Quiz">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://rapha2202.github.io/Projet-1-City-Quiz/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Sushi Paradise
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Lionel</li>
+                <li>Sajid</li>
+                <li>Rony</li>
+                <li>Yannick</li>
+                <li>Djemil</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/lderi78/SushiParadise">Le repo ici</a>
+        </td>
+        <td>
+            <a href="#">❌</a>
+        </td>
+    </tr>
+</table>
+
+### Poulpote
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Alix</li>
+                <li>Mohamed</li>
+                <li>Pierrick</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Chikoulat/poulpote-project">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://chikoulat.github.io/poulpote-project/index.html">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Book of Wilders
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Jonathan</li>
+                <li>Baptiste</li>
+                <li>Medhi</li>
+                <li>Sébastien</li>
+                <li>Souhir</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Batsave/Project1-Book-Of-Wilders">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://www.bookofwilders.fr/">La production</a>
+        </td>
+    </tr>
+</table>

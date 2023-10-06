@@ -2,11 +2,11 @@
 
 Ici, nous allons consigner les informations relatives à nos projets et hackathon.
 
-## [Projet 1](#)
+## [Projet 1](./Projet1.md)
 
 ### Technologies
 
-[![skills](https://skillicons.dev/icons?i=js,html,css,git,github,figma)](#)
+[![skills](https://skillicons.dev/icons?i=js,html,css,php,git,github,figma)](#)
 
 ## Show your support
 
