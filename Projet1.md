@@ -525,3 +525,133 @@
         </td>
     </tr>
 </table>
+
+### ScriptAttitude
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Nelson Almeida</li>
+                <li>Alexandre de Oliveira Gomes</li>
+                <li>Xavier Mesnildrey</li>
+                <li>Prasanna Kalki</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P1-ScriptAttitude.git">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildcodeschool-2023-09.github.io/JS-RemoteFR-jurascripts-P1-ScriptAttitude/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### 2PAC-MAN
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Suzy Cassar</li>
+                <li>Jordan Chatelain</li>
+                <li>Valentin Cardon</li>
+                <li>Didier Echeverria</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P1-2PAC-MAN">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildcodeschool-2023-09.github.io/JS-RemoteFR-jurascripts-P1-2PAC-MAN">La production</a>
+        </td>
+    </tr>
+</table>
+
+### 4 Fantascrîpts
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Kevin Turnaco</li>
+                <li>Sandrine Manson</li>
+                <li>Cédric Bodereau</li>
+                <li>Paul Delesques</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P1-4Fantascripts">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildcodeschool-2023-09.github.io/JS-RemoteFR-jurascripts-P1-4Fantascripts">La production</a>
+        </td>
+    </tr>
+</table>
+
+### FNAC
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Frédéric Pelletier</li>
+                <li>Alhassane Diallo</li>
+                <li>Charles Proust</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P1-FNAC">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildcodeschool-2023-09.github.io/JS-RemoteFR-jurascripts-P1-FNAC">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Zonb-Nwar
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Calypso Salé</li>
+                <li>Jean-Louis Dumas</li>
+                <li>Alexis Naudin-Mercier</li>
+                <li>Maxence Chevée</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P1-Zonb-Nwar">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildcodeschool-2023-09.github.io/JS-RemoteFR-jurascripts-P1-Zonb-Nwar">La production</a>
+        </td>
+    </tr>
+</table>
+
