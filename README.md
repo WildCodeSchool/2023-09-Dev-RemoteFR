@@ -6,7 +6,13 @@ Ici, nous allons consigner les informations relatives à nos projets et hackatho
 
 ### Technologies
 
-[![skills](https://skillicons.dev/icons?i=js,html,css,php,git,github,figma)](#)
+[![skills](https://skillicons.dev/icons?i=html,css,git,github,figma,php,js)](#)
+
+## [Projet 2](./Projet2.md)
+
+### Technologies
+
+[![skills](https://skillicons.dev/icons?i=html,css,git,github,figma,php,js,react,symfony)](#)
 
 ## Show your support
 
