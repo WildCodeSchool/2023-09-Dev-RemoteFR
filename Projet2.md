@@ -241,7 +241,7 @@
 
 ## Teams
 
-### TeamName
+### 100 Pressions
 
 <table>
     <tr>
@@ -252,17 +252,173 @@
     <tr>
         <td>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Sébastien Roméo</li>
+                <li>Olivier Morin</li>
+                <li>Valériane Sudre Chevalier</li>
+                <li>Alain Le Moal</li>
             </ul>
         </td>
         <td>
-            <a href="">Le repo ici</a>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RMT-React_If-Projet2-100_pressions">Le repo ici</a>
         </td>
         <td>
-            <a href="">La production</a>
+            ❌
         </td>
     </tr>
 </table>
+
+
+### Bear'Beers
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Guillaume Puh</li>
+                <li>Alexandre Bruart</li>
+                <li>Mathieu Perrin</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RMT-React_If-Projet2-Bear_beers">Le repo ici</a>
+        </td>
+        <td>
+            ❌
+        </td>
+    </tr>
+</table>
+
+### CapTeam America
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Maxime Gael</li>
+                <li>Leslie Pellegrin Moraud</li>
+                <li>Nicolas De Freitas</li>
+                <li>Hédi Sghaier</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RMT-React_If-Projet2-CapTeam_America">Le repo ici</a>
+        </td>
+        <td>
+            ❌
+        </td>
+    </tr>
+</table>
+
+
+### Obscuria
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Sébastien Baquet</li>
+                <li>Grégory Duffort</li>
+                <li>Théo Sarhane</li>
+                <li>Younes Sefiani</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RMT-React_If-Projet2-Obscuria">Le repo ici</a>
+        </td>
+        <td>
+            ❌
+        </td>
+    </tr>
+</table>
+
+
+### Vegglee
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Adel Kara</li>
+                <li>Vincent Ducamp</li>
+                <li>Antonin Pasquier</li>
+                <li>Tessa Armelin</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RMT-React_If-Projet2-Vegglee">Le repo ici</a>
+        </td>
+        <td>
+            ❌
+        </td>
+    </tr>
+</table>
+
+
+### Watch Now
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Thibaud Dupuis</li>
+                <li>Maxim Signoret</li>
+                <li>Jean Marc Zonghero</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RMT-React_If-Projet2-Watch_now">Le repo ici</a>
+        </td>
+        <td>
+            ❌
+        </td>
+    </tr>
+</table>
+
+### Time News
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Hipticem Maamir</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RMT-React_If-Projet2-Hipticem">Le repo ici</a>
+        </td>
+        <td>
+            ❌
+        </td>
+    </tr>
+</table>
+
