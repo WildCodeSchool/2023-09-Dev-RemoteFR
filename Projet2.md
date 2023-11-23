@@ -237,6 +237,136 @@
     </tr>
 </table>
 
+### Les Farteurs
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Charles</li>
+                <li>Suzy</li>
+                <li>Xavier</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P2-LesFarteurs">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://farteurs.vercel.app/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Stupéflix
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Alexandre</li>
+                <li>Fred</li>
+                <li>Jordan</li>
+                <li>Kevin</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P2-Stupeflix">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://truestupeflix.vercel.app/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### GeoDrinkers
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Calypso</li>
+                <li>Didier</li>
+                <li>Jean-Louis</li>
+                <li>Paul</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P2-Geodrinkers">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://geodrinkers.vercel.app/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### GetHeroes
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Alhassane</li>
+                <li>Cédric</li>
+                <li>Maxence</li>
+                <li>Nelson</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P2-GetHeroes">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://getheroes.vercel.app/">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Jurastream
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Alexis</li>
+                <li>Prasanna</li>
+                <li>Sandrine</li>
+                <li>Valentin</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool-2023-09/JS-RemoteFR-jurascripts-P2-Jurastream">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://jurastream.vercel.app/">La production</a>
+        </td>
+    </tr>
+</table>
+
+
+
 # Projet 2 | 22/11/2023
 
 ## Teams
