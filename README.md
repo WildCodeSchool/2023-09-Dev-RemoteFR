@@ -15,7 +15,7 @@ Ici, nous allons consigner les informations relatives à nos projets et hackatho
 [![skills](https://skillicons.dev/icons?i=html,css,git,github,figma,php,js,react,symfony)](#)
 
 
-## [Hackathon 2](./Hackathon2.md)
+## [Hackathon 2](./Hackathon.md)
 
 ### Technologies
 
